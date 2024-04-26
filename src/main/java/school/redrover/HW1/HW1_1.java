@@ -1,4 +1,4 @@
-package school.redrover;
+package school.redrover.HW1;
 /*
 Задача №1
 Написать программу которая будет печатать/выводить следующий текст:
