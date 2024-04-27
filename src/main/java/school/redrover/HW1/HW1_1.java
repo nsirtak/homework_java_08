@@ -14,6 +14,6 @@ public class HW1_1 {
         System.out.println("1");
         System.out.println("Поехали!!!");
 
-        //System.out.println("3\n2\n1\nПоехали!!!"); // another solution
+        //System.out.println("3\n2\n1\nПоехали!!!"); // solution#2
     }
 }
