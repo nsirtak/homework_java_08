@@ -24,7 +24,6 @@ public class HW5_10 {
             for (int j = 1; j < 10 - i; j++) {
                 System.out.print(j + " ");
             }
-
             System.out.println();
         }
     }
