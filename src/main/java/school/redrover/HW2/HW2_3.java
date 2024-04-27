@@ -1,4 +1,4 @@
-package school.redrover;
+package school.redrover.HW2;
 /*
 Задача №3
 Вывести/напечатать смайлик (не :), а настоящий смайлик одним символом).
