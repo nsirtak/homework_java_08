@@ -16,7 +16,5 @@ public class HW6_4 {
                 System.out.println(i);
             }
         }
-
-
     }
 }
